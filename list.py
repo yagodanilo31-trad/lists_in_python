@@ -1,4 +1,4 @@
-#list1
+#list-1
 list = []
 
 while True:
@@ -25,7 +25,7 @@ while True:
         print("-".center(20, '-'))
         print("invalid")
 
-#list2
+#list-2
 list = []
 
 while True:
@@ -48,7 +48,7 @@ while True:
     print("-".center(20, '-'))
 
 
-#list3
+#list-3
 list = []
 
 while True:
